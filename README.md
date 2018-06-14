@@ -1,3 +1,4 @@
 # YFScrollView
 YFScrollView是由YFHeaderView 和 YFScrollView 两部分组成。可以实现任意继承自headerView的视图卡住。
-实现左右滑动和上下滑动的功能
+实现左右滑动和上下滑动的功能。
+但是在里面的外面的滑动视图与里面的滑动视图衔接的位置比较生硬，现贴出代码希望群策群力
